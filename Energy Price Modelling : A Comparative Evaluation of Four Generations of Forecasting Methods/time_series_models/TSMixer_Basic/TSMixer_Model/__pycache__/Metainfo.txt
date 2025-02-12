@@ -1,1 +1,6 @@
-Auxiliary code
+Name of Quantlet: TSMixer_Basic/TSMixer_Model_pycache_
+Published in: Energy Price Modelling: A Comparative Evaluation of Four Generations of Forecasting Methods
+Description: Source code for the TSMixer model.
+Keywords: TSMixer, Model
+Author: Alexandru-Victor ANDREI, Georg VELEV, Mihai-Filip TOMA, Daniel PELE, Stefan Lessmann   
+Submitted:  12.02.2025
