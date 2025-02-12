@@ -1,11 +1,11 @@
-Name of QuantLet :
+Name of QuantLet : Energy Price Modelling : A comparative Evaluation of Four Generations of Forecasting Methods
 
-Published in :
+Published in : Not yet published
 
-Description :
+Description : Benchmark of different ML forecasting models and methods
 
-Keywords :
+Keywords : Machine Learning, LLM, Deep Learning, Transformer architecture
 
-Author :
+Author : Alexandru-Victor ANDREI, Georh VELEF, Mihao-Filip TOMA, Daniel PELE, Stefan Lessmann
 
-Submitted :
+Submitted : Energy (waiting for approval)
