@@ -1,4 +1,4 @@
-Name of Quantlet: _pycache_
+Name of Quantlet: data_import_pycache_
 Published in: Energy Price Modelling: A Comparative Evaluation of Four Generations of Forecasting Methods
 Description: Intermediary code for importing the data for the time series.
 Keywords: Import, Data, Time Series 
