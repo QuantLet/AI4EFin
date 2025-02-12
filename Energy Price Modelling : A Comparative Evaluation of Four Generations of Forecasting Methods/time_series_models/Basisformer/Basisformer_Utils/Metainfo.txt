@@ -1,1 +1,6 @@
-Basisformer utils
+Name of Quantlet: Basisformer_Utils
+Published in: Energy Price Modelling: A Comparative Evaluation of Four Generations of Forecasting Methods
+Description: Source code for the Basisformer Model.
+Keywords: Basisformer, Model, Utils
+Author: Alexandru-Victor ANDREI, Georg VELEV, Mihai-Filip TOMA, Daniel PELE, Stefan Lessmann   
+Submitted:  12.02.2025
