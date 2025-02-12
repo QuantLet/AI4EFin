@@ -1,4 +1,4 @@
-Name of Quantlet: Quatformer_Layers_pycache_
+Name of Quantlet: Quatformer_Models_pycache_
 Published in: Energy Price Modelling: A Comparative Evaluation of Four Generations of Forecasting Methods
 Description: Source code for the Quatformer model.
 Keywords: Quatformer, Model
