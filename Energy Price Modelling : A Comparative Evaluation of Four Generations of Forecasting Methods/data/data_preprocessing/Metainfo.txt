@@ -1,5 +1,3 @@
-Preprocessing data
-
 Name of Quantlet: data_preprocessing
 Published in: Energy Price Modelling: A Comparative Evaluation of Four Generations of Forecasting Methods
 Description: This code preprocess data.
