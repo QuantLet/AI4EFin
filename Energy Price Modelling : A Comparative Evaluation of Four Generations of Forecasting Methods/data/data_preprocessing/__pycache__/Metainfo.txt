@@ -1,1 +1,6 @@
-Auxiliary code
+Name of Quantlet: data_preprocessing_pychache_
+Published in: Energy Price Modelling: A Comparative Evaluation of Four Generations of Forecasting Methods
+Description: Additional code to preprocess data.
+Keywords: Prepropcessing 
+Author: Alexandru-Victor ANDREI, Georg VELEV, Mihai-Filip TOMA, Daniel PELE, Stefan Lessmann   
+Submitted:  12.02.2025
