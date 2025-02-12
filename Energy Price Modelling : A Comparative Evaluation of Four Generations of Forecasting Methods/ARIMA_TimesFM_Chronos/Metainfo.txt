@@ -1,1 +1,6 @@
-ARIMA, Chronos and TimesFM codes
+Name of Quantlet: ARIMA_TimesFM_Chronos
+Published in: Energy Price Modelling: A Comparative Evaluation of Four Generations of Forecasting Methods
+Description: This code computes ARIMA models for the time series.
+Keywords: ARIMA, Chronos, TimesFM 
+Author: lexandru-Victor ANDREI, Georg VELEF, Mihao-Filip TOMA, Daniel PELE, Stefan Lessmann   
+Submitted:  12.02.2025
