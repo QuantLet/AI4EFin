@@ -1,4 +1,4 @@
-Name of Quantlet: ARIMA_TimesFM_Chronos
+Name of Quantlet: data_import
 Published in: Energy Price Modelling: A Comparative Evaluation of Four Generations of Forecasting Methods
 Description: This code imports the data for the time series.
 Keywords: Import, Data, Time Series 
