@@ -1,1 +1,6 @@
-Auxiliary code
+Name of Quantlet: src_pychache_
+Published in: Energy Price Modelling: A Comparative Evaluation of Four Generations of Forecasting Methods
+Description: Additional source code for evaluating and results visualisation.
+Keywords: Evaluating, Visualisation, Results 
+Author: Alexandru-Victor ANDREI, Georg VELEV, Mihai-Filip TOMA, Daniel PELE, Stefan Lessmann   
+Submitted:  12.02.2025
