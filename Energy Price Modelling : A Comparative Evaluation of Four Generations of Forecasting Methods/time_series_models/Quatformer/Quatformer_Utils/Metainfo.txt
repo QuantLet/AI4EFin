@@ -1,1 +1,6 @@
-Quatformer Utils
+Name of Quantlet: Quatformer_Utils
+Published in: Energy Price Modelling: A Comparative Evaluation of Four Generations of Forecasting Methods
+Description: Source code for the Quatformer model.
+Keywords: Quatformer, Model
+Author: Alexandru-Victor ANDREI, Georg VELEV, Mihai-Filip TOMA, Daniel PELE, Stefan Lessmann   
+Submitted:  12.02.2025
