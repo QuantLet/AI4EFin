@@ -6,8 +6,8 @@ AI4EFin involves design-oriented research to develop a set of new ML/AI methods 
 to demonstrate the effectiveness of the new instruments vis-a-vis established benchmarks in relevant energy finance use cases related to decision analysis and risk management.
 
 Objectives:
-Objective 1: To provide new ML/AI models for finance and energy market time series
-Objective 2: To build XAI methodology for explaining deep learning-based time series forecasts
-Objective 3: To devise probabilistic ML/AI models for energy finance risk management
-Objective 4: To develop methodology for causal discovery and effect estimation in energy finance
-Objective 5: To create and disseminate knowledge
+- Objective 1: To provide new ML/AI models for finance and energy market time series
+- Objective 2: To build XAI methodology for explaining deep learning-based time series forecasts
+- Objective 3: To devise probabilistic ML/AI models for energy finance risk management
+- Objective 4: To develop methodology for causal discovery and effect estimation in energy finance
+- Objective 5: To create and disseminate knowledge
