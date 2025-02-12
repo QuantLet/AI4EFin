@@ -1,1 +1,6 @@
-Autoformer model
+Name of Quantlet: Autoformer_Model
+Published in: Energy Price Modelling: A Comparative Evaluation of Four Generations of Forecasting Methods
+Description: Source code for the Autoformer Model.
+Keywords: Autoformer, Model
+Author: Alexandru-Victor ANDREI, Georg VELEV, Mihai-Filip TOMA, Daniel PELE, Stefan Lessmann   
+Submitted:  12.02.2025
