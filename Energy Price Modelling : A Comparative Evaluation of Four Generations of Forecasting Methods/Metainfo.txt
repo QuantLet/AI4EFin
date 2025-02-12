@@ -6,6 +6,6 @@ Description : Benchmark of different ML forecasting models and methods
 
 Keywords : Machine Learning, LLM, Deep Learning, Transformer architecture
 
-Author : Alexandru-Victor ANDREI, Georh VELEF, Mihao-Filip TOMA, Daniel PELE, Stefan Lessmann
+Author : Alexandru-Victor ANDREI, Georg VELEF, Mihao-Filip TOMA, Daniel PELE, Stefan Lessmann
 
 Submitted : Energy (waiting for approval)
