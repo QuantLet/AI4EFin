@@ -1,4 +1,4 @@
-Name of QuantLet : Energy Price Modelling : A comparative Evaluation of Four Generations of Forecasting Methods
+Name of QuantLet : Energy Price Modelling A comparative Evaluation of Four Generations of Forecasting Methods
 
 Published in : Not yet published
 
