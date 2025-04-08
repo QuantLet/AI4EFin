@@ -9,7 +9,7 @@ Name of Quantlet: data_import
 
 Published in: Energy Price Modelling: A Comparative Evaluation of Four Generations of Forecasting Methods
 
-Description: This code imports the data for the time series.
+Description: This folder contains the time series data to be imported for the empirical analysis.
 
 Keywords: Import, Data, Time Series
 
