@@ -15,7 +15,7 @@ can be found in the notebooks Run_TS_Models.ipynb and Evaluate_and_Visualize_For
 
 Keywords: Machine Learning, LLM, Deep Learning, Transformer architecture
 
-Author: Alexandru-Victor ANDREI, Georg VELEV, Mihai-Filip TOMA, Daniel PELE, Stefan Lessmann
+Author: Alexandru-Victor ANDREI, Georg VELEV, Filip-Mihai TOMA, Daniel PELE, Stefan Lessmann
 
 Submitted: Energy Economics (waiting for approval)
 
