@@ -17,6 +17,6 @@ Keywords: Machine Learning, LLM, Deep Learning, Transformer architecture
 
 Author: Alexandru-Victor ANDREI, Georg VELEF, Mihao-Filip TOMA, Daniel PELE, Stefan Lessmann
 
-Submitted: Energy (waiting for approval)
+Submitted: Energy Economics (waiting for approval)
 
 ```
