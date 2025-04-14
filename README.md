@@ -9,7 +9,9 @@ Name of QuantLet: Energy Price Modelling A comparative Evaluation of Four Genera
 
 Published in: Not yet published
 
-Description: Benchmark of different ML forecasting models and methods. Detailed instructions on how to run the models and reproduce the visualizations <br> can be found in the notebooks Run_TS_Models.ipynb and Evaluate_and_Visualize_Forecasts.ipynb.
+Description: Benchmark of different ML forecasting models and methods. Detailed instructions on how to run the models and reproduce the visualizations
+
+can be found in the notebooks Run_TS_Models.ipynb and Evaluate_and_Visualize_Forecasts.ipynb.
 
 Keywords: Machine Learning, LLM, Deep Learning, Transformer architecture
 
